@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Presents on Virtualization Vulnerabilities at Blackhat USA 2013"
+date:   2013-07-30 12:00:00
+categories: presentation blackhat
+---
+
+Detecting Vulnerabilities in Virtual Devices Using Conformance Testing -- "Turning Old Hardware Into Gold"

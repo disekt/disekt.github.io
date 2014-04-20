@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Presents on ROP Detection at Shmoocon 2014"
+date:   2014-01-18 12:00:00
+categories: presentation shmoocon
+---
+
+[unROP: A Tool for In-Memory ROP Exploitation Detection and Traceback](http://www.shmoocon.org/speakers#unrop)

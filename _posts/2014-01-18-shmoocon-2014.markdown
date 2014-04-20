@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Presents flaws in Smartphone Secure Boot at Shmoocon 2014"
+date:   2014-01-18 12:00:00
+categories: presentation shmoocon
+---
+
+[Arms Race: The Story of (In)-Secure Bootloaders](http://www.shmoocon.org/speakers#armsrace)
+

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Presents on VM Detection at Blackhat Asia 2014"
+date:   2014-05-27 12:00:00
+categories: presentation blackhat
+---
+
+[COMPREHENSIVE VIRTUAL APPLIANCE DETECTION](http://www.blackhat.com/asia-14/briefings.html#Li)
