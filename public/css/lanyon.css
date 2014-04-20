@@ -300,19 +300,37 @@ a.sidebar-nav-item:focus {
 .post {
   margin-bottom: 4em;
 }
+.post-front {
+}
 
 /* Blog post or page title */
 .page-title,
+.post-title-front,
+.post-title-front a,
 .post-title,
 .post-title a {
   color: #303030;
 }
 .page-title,
+.post-title-front,
 .post-title {
   margin-top: 0;
 }
 
+.post-title-front {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 80%;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.020rem;
+}
+
 /* Meta data line below post title */
+.post-date-front {
+  font-size: 70%;
+  font-family: Fixed, monospace;
+  color: #9a9a9a;
+}
 .post-date {
   display: block;
   margin-top: -.5rem;
